@@ -15,6 +15,10 @@ include_directories(include)
 include_directories(GLAD/include)
 include_directories(glm/include)
 
+file(COPY resources DESTINATION ${dir}/build)
+file(COPY shaders DESTINATION ${dir}/build)
+
+
 #Add deps
 add_subdirectory(dependencies)
 

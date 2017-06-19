@@ -1,6 +1,6 @@
- # Simple OpenGL SetUp
+ # Simple OpenGL Setup with Clion Cmake
  
- ### GLAD, GLFW, GLM
+ ### GLAD, GLFW, GLM, stb_image
  
- #### Follwing the [LearnOpengGL](https://learnopengl.com/) tutorial
+ #### Source code from [LearnOpengGL](https://learnopengl.com/) tutorial
  
